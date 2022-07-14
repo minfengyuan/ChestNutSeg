@@ -1,2 +1,2 @@
-# ChesSegmentation
-OpenChestnut Semantic Segmentation Toolbox and Benchmark.
+# ChestNutSeg
+OpenNutSeg Semantic Segmentation Toolbox and Benchmark.
